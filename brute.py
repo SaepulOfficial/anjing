@@ -55,7 +55,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.06)
 
-logo = ''' { CRAZY BRUTEFORCE } \n'''
+logo = ''' { Creative Teens } \n'''
 
 def tik():
     titik = [
